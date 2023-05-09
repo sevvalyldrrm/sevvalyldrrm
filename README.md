@@ -28,8 +28,4 @@ Frontend Developer
 
 <p align="left"> <a href="https://discord.com/users/galaksit#2592" target="_blank" rel="noreferrer"></a> <a href="https://www.linkedin.com/in/sevvalyildirim2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sevvalyldrrm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sevvalyldrrm&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
