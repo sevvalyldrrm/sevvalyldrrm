@@ -9,7 +9,7 @@ Frontend Developer
 
 
 * ✉️  You can contact me at [ysevvalyldrm@gmail.com](mailto:ysevvalyldrm@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning C# .Net 
 * 🤝  I'm open to collaborating on interesting React Native projects
 
 ### Skills
