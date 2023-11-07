@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-Frontend Developer
+Jr. FullStack Developer
 ----------------
 
 
