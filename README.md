@@ -9,7 +9,7 @@ Jr. FullStack Developer
 
 
 * ✉️  You can contact me at [ysevvalyldrm@gmail.com](mailto:ysevvalyldrm@gmail.com)
-* 🧠  I'm learning C# ASP.NET Core
+* 🧠  I'm learning .Net Microservice
 
 
 ### Skills
