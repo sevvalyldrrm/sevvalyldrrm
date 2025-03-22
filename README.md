@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋I'm Şevval">
   </a>
 </h1>
 
@@ -9,8 +9,6 @@ FullStack Developer
 
 
 * ✉️  You can contact me at [ysevvalyldrm@gmail.com](mailto:ysevvalyldrm@gmail.com)
-* 🧠  I'm learning .Net Microservice
-
 
 ### Skills
 
